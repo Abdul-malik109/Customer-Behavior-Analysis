@@ -102,5 +102,5 @@ It highlights the ability to transform raw data into meaningful insights and com
 
 ## 📬 Contact
 If you’d like to discuss this project or collaborate, feel free to connect with me on LinkedIn or reach out via GitHub.
-- **LinkedIn:** [[linkedin.com/in/yourname](https://www.linkedin.com/in/abdulml87/)]
-- **GitHub:** [github.com/yourusername](https://github.com/Abdul-malik109)
+- **LinkedIn:** [Abdul Malik (https://www.linkedin.com/in/abdulml87/)]
+- **GitHub:** [Abdul Malik (https://github.com/Abdul-malik109)]
