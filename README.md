@@ -10,7 +10,7 @@ The analysis focuses on understanding customer purchasing patterns, spending beh
 
 ---
 
-**Dashboard Highlights:**
+## Dashboard Highlights
 - Identifies high-value customers based on total spend
 - Tracks purchase frequency across customer segments
 - Highlights top-performing product categories
