@@ -1,6 +1,6 @@
 # 📊 Customer Behavior Analysis
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](Images/Dashboard.jpg)
 
 ## 📌 Project Overview
 This project analyzes customer shopping behavior to extract actionable insights that support data-driven business decisions.  
